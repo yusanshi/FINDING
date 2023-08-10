@@ -8,7 +8,7 @@ The repository contains the code for the paper **Federated News Recommendation w
 ### Download the package
 
 ```bash
-git clone https://github.com/anonymous/TBD.git
+git clone https://github.com/yusanshi/FINDING
 cd FINDING
 export WORKING_DIRECTORY=`pwd`
 ```
